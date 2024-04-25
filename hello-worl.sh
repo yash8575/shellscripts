@@ -1,3 +1,3 @@
 #!bin/bash
 
-echo"this is yashwanth"
+echo "this is yashwanth"
